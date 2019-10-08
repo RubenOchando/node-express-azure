@@ -5,7 +5,7 @@
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
 ## Running and Testing Locally:
-
+[![Build Status](https://devruochoptaken.visualstudio.com/node-express/_apis/build/status/RubenOchando.node-express-azure?branchName=master)](https://devruochoptaken.visualstudio.com/node-express/_build/latest?definitionId=1&branchName=master)
 You can use these commands to install, test, and run the app locally. (Not Required)
 
 ### Install
